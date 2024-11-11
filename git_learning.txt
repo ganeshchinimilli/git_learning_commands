@@ -1,1 +1,49 @@
-firstly install the git commmands
+firstly install the git 
+https://git-scm.com/downloads/win
+
+If you want to config teh git glbally with the crednetis then
+git config --global user.name
+git config --global user.email
+
+git init-will initiatize the empty repository in local
+git status -can check the status of which branch or the files
+git stage -- file_name ->will stage the files
+git add --file_nmae or git stage --all ->will do the same Operation
+git commit -m "commit name" --will commit the code into your local branch with respoct
+git status --short-->will give you the current file status
+git commit -a -m "commit name" will commit without doing thr stash of the files
+git log --will do the git history
+git help --all -->will give you all commands 
+git commit --help ->same
+
+
+git branch branch_name --will create a new branch
+git checkout branch_name --will move inot that branch
+git checkout -b branch_name --will create a branch and will move into it.
+git branch --will show all the branchs
+
+
+
+GIT & GITHUB
+
+git remote add origin "link"
+git push --set-upstream origin master
+git fetch origin
+git pull origin
+git merge orging/master
+
+
+
+
+
+
+commands to commit are 
+git init
+git remote add orgin ";limk"
+git status
+git stage --all
+git commit -m "frist+com"
+git status
+git push -u origin master -->will move the code to orgin from teh master
+
+
