@@ -39,11 +39,11 @@ git merge orging/master
 
 commands to commit are 
 git init
-git remote add orgin ";limk"
+git remote add orgin "limk"
 git status
 git stage --all
-git commit -m "frist+com"
+git commit -m "frist_com"
 git status
-git push -u origin master -->will move the code to orgin from teh master
+git push -u origin master -->will move the code to origin from teh master
 
 
