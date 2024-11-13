@@ -117,3 +117,4 @@ if(5>2):
 # to update a tuple convert it into a list using list() casting and do reverse reverse casting
 # (1,2,*3) = tuple it will do assign 3 all the reminig tuple items
 # tuple methods are index(),count()
+
